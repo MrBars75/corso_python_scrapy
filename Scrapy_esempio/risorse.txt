@@ -1,0 +1,17 @@
+./.venv/Scripts/activate
+cd progetto1/progetto1/spiders
+
+Per avviare un nuovo progetto scrapy
+
+1. scrapy startproject abc
+2. scrapy genspider bookspider books.toscrape.com
+
+x installare la shell interattiva
+pip install ipython
+
+Codice per avviare lo spider
+scrapy crawl bookspider -O risultati.csv
+
+prompt collection
+
+Scrivimi una regola scrapy python per estrapolare il titolo (es: A Light in the Attic) e fammi anche una variante xpath
