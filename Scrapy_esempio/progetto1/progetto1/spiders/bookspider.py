@@ -1,4 +1,4 @@
-import scrapy
+import scrapy # type: ignore
 
 
 class BookspiderSpider(scrapy.Spider):
