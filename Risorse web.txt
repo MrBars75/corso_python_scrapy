@@ -1,0 +1,10 @@
+scrapeops.io (portale di riferimenro per il web scraping)
+https://spys.one/en/https-ssl-proxy/ (sito di proxy gratis - da verificare -)
+https://toscrape.com/ (sito palestra base e avanzato)
+https://www.digitalocean.com/ (linux virtual machine con 200 dollari omaggio per 2 mesi)
+https://scrapeops.io/python-scrapy-playbook/ (libro di riferimento per il web scraper)
+https://github.com/ispras/scrapy-puppeteer (per siti che generano pagine JS alternativa a selenium)
+
+
+
+
